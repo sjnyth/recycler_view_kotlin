@@ -36,7 +36,7 @@ My chosen API for this project is **ThronesAPI**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://github.com/sjnyth/fetch_img_kotlin/blob/main/GameofThrones_API.gif" height="600" alt="Gif of App">
+<img src="https://github.com/sjnyth/recycler_view_kotlin/blob/main/gif%20(1).gif" height="600" alt="Gif of App">
 
 GIF created with **EZ Converter**
 
