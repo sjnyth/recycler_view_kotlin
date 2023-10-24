@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Game of Thrones API
+# AND101 Project 5 - Game of Thrones API: Recycler View
 
 Submitted by: **Saujanya Thapaliya**
 
@@ -17,16 +17,15 @@ If I had to describe this project in three (3) emojis, they would be: **🗡🩸
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
-
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Display at least three (3) pieces of data for each API entry retrieved
-- [x] A working Button requests a new API entry and updates the data displayed
-
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
+      
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ ] Add a UI element for the user to interact with API further
+- [ ] Show a `Toast` or `Snackbar` when an item is clicked
+- [ ] Add item dividers with `DividerItemDecoration`
 
 
 ## API Choice
@@ -43,7 +42,7 @@ GIF created with **EZ Converter**
 
 ## Notes
 
-I learned aboout asynchttps, jsonobject, and accessing API data.
+I learned about integrating with APIs with recycler view.
 
 ## License
 
