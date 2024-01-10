@@ -2,8 +2,6 @@
 
 # AND101 Project 5 - Game of Thrones API: Recycler View
 
-Submitted by: **Saujanya Thapaliya**
-
 Time spent: **2** hours spent in total
 
 ## Summary
